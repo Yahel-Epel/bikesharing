@@ -28,5 +28,5 @@ In order to understand the trip duration, we changed the "tripduration" column t
 ![Top Ending Location.png](https://github.com/Yahel-Epel/bikesharing/blob/main/Resources/Top%20Ending%20Locations.png)
 
 - August Peak Hours- are 5 pm and 6 pm. We can see that during the night 3 am and 4 am will be the best time to do maintenance for the bikes. 
-- ![August Peak Hours.png](https://github.com/Yahel-Epel/bikesharing/blob/main/Resources/August%20Peak%20Hours.png)
+![August Peak Hours.png](https://github.com/Yahel-Epel/bikesharing/blob/main/Resources/August%20Peak%20Hours.png)
 
