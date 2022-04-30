@@ -5,7 +5,9 @@ Performing analysis on bike-sharing data in NYC in August 2019 to understand the
 
 ## Analysis and Challenges
 In order to understand the trip duration, we changed the "tripduration" column to a DateTime datatype and worked with clean data set.
+
 ## Results
+[link to dashboard](https://public.tableau.com/app/profile/yahel.epel/viz/Module14Challenge-Biketripanalysis/BikeTripAnalysis)
 
 - Checkout Times for Users- we can see that the trip duration of most of the users is less than an hour. Most of the user trip duration is 5 minutes.
 ![Checkout Times for Users.png](https://github.com/Yahel-Epel/bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.png)
@@ -27,3 +29,4 @@ In order to understand the trip duration, we changed the "tripduration" column t
 
 - August Peak Hours- are 5 pm and 6 pm. We can see that during the night 3 am and 4 am will be the best time to do maintenance for the bikes. 
 - ![August Peak Hours.png](https://github.com/Yahel-Epel/bikesharing/blob/main/Resources/August%20Peak%20Hours.png)
+
